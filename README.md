@@ -2,7 +2,7 @@
 
 <!-- HEADER: avatar + animated typing -->
 <p align="center">
-  <img width="110" src="https://github.com/YOUR_GITHUB_USERNAME.png" alt="avatar" style="border-radius:50%">
+  <img width="110" src="https://github.com/Khantzinhrin.png" alt="avatar" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Khant Zin Hein</h1>
@@ -15,10 +15,10 @@
 
 <p align="center">
   <!-- Contact / Links -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio.example"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Khantzinhrin"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:heinkhantzin0@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/khant-zin-hein-0369a9380/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolioupdate-1pzi.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khantzinhrin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
