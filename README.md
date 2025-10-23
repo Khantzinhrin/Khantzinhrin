@@ -54,12 +54,12 @@
 ### Method Flow — Student Q&A platform
 - **Stack:** PHP, Tailwind, PDO, MySQL, PHPMailer  
 - **What I built:** login/signup, posting questions, voting, comments, password reset with token/email, controller-based backend, homepage showing questions and tags.
-- **Link:** `https://github.com/Khantzinhrin/method-flow` (replace with your repo)
+- **Link:** `https://github.com/Khantzinhrin/method-flow`
 
 ### Car Management System
 - **Stack:** Java, Stored Procedures (MySQL), Backend validations  
 - **What I built:** Car listing, `AddCustomer` stored proc with validations for existence, rent calc, payment insertions, and integration with Photos table.
-- **Link:** `https://github.com/Khantzinhrin/car-management` (replace with your repo)
+- **Link:** `https://github.com/Khantzinhrin/car-management`
 
 > Add more projects below by copying the block above.
 
