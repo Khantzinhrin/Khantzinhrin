@@ -24,7 +24,7 @@
 ---
 
 ## 👨‍💻 About me
-- Full-stack developer focused on **PHP** + **Tailwind** with solid **database** and backend experience.
+- Full-stack developer focused on **JAVA** + **SceneBuilder** with solid **database** and backend experience.
 - Built **Method Flow** — a student Q&A platform inspired by Stack Overflow (PHP, PDO, Tailwind).
 - Implemented **car management systems** with stored procedures, validations, and Aiven DB integration.
 - Passed **FE (Fundamental Engineering)** and **JLPT N3**. Hobbies: reading & swimming.
