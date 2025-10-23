@@ -54,12 +54,12 @@
 ### Method Flow — Student Q&A platform
 - **Stack:** PHP, Tailwind, PDO, MySQL, PHPMailer  
 - **What I built:** login/signup, posting questions, voting, comments, password reset with token/email, controller-based backend, homepage showing questions and tags.
-- **Link:** `https://github.com/YOUR_GITHUB_USERNAME/method-flow` (replace with your repo)
+- **Link:** `https://github.com/Khantzinhrin/method-flow` (replace with your repo)
 
 ### Car Management System
-- **Stack:** PHP, Stored Procedures (MySQL/Postgres), Backend validations  
+- **Stack:** Java, Stored Procedures (MySQL), Backend validations  
 - **What I built:** Car listing, `AddCustomer` stored proc with validations for existence, rent calc, payment insertions, and integration with Photos table.
-- **Link:** `https://github.com/YOUR_GITHUB_USERNAME/car-management` (replace with your repo)
+- **Link:** `https://github.com/Khantzinhrin/car-management` (replace with your repo)
 
 > Add more projects below by copying the block above.
 
@@ -69,11 +69,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khantzinhrin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khantzinhrin&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khantznhrin&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
