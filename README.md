@@ -61,7 +61,10 @@
 - **What I built:** Car listing, `AddCustomer` stored proc with validations for existence, rent calc, payment insertions, and integration with Photos table.
 - **Link:** `https://github.com/Khantzinhrin/car-management`
 
-> Add more projects below by copying the block above.
+### TicTacToe 
+- **Stack** Java,Java(awt framrwork)
+- **What I build** Classic TicTacToe
+- **Link** `https://github.com/Khantzinhrin/TicTacToe`
 
 ---
 
