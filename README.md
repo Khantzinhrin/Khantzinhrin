@@ -8,8 +8,8 @@
 <h1 align="center">Hi 👋, I'm Khant Zin Hein</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=680&lines=Full-stack+JAVA+developer;Java+enthusiast;Building+student+help+platforms;FE+passed+%26+JLPT+N3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=680&lines=Full-stack+JAVA+developer;Java+enthusiast;Building+student+help+platforms;FE+passed+%26+JLPT+N3" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=680&lines=Full-stack+JAVA+developer;Java+enthusiast;Building+student+help+platforms;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=680&lines=Full-stack+JAVA+developer;Java+enthusiast;Building+student+help+platforms;" alt="Typing SVG" />
   </a>
 </p>
 
